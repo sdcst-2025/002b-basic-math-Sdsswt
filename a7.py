@@ -11,3 +11,8 @@ Read through the file **example1.py** for information on using the math module.
 * You will require the use of the round() function from example1.py
 '''
 
+f = float(62.5)
+c = float()
+
+c = (f-32)* 5/9
+print(round(c,1))
